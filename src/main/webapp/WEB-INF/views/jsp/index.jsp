@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To my chanel universe4d,pune,Maharastra.</h2>
-			<h3>Contact @ +91</h3>
+			<h2>Welcome To Aws Project.</h2>
+			<h3>Contact@gmail.com </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; universe4d 2019</p>
+		<p>&copy;Jan 2024</p>
 	</footer>
 </div>
 
