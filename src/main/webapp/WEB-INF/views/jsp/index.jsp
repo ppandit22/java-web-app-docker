@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Aws Project.</h2>
-			<h3>Contact@gmail.com </h3>
+			<h3>Contact@Pappu Pandit</h3>
 		</div>	
 	</div>
 
