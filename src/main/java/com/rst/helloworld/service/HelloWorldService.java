@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "Hi Everyone";
+		return "JENKINS+DOCKER+TOMCAT";
 
 	}
 
@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "Hello WORLD";
+			return "Welcome To Aws Project";
 		}else{
 			return "Hello " + name;
 		}
