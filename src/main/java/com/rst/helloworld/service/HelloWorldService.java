@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "Welcome To Aws Project";
+			return "Welcome To AWS Project";
 		}else{
 			return "Hello " + name;
 		}
