@@ -25,7 +25,7 @@ public class HelloWorldService {
 		if(StringUtils.isEmpty(name)){
 			return "Welcome To AWS Project";
 		}else{
-			return "Hello " + name;
+			return "Using " + name;
 		}
 		
 	}
